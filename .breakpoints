@@ -1,0 +1,32 @@
+{
+  "files": {
+    "linked_list.h": [
+      {
+        "id": "c18f09fd-d2f9-424a-8226-b053e035d81c",
+        "line": 7,
+        "version": 1617,
+        "index": 95
+      },
+      {
+        "id": "bf5a0fd7-1c27-42df-96bd-beb00f2625df",
+        "line": 7,
+        "version": 1617,
+        "index": 95
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "01842faf-5792-41f9-aebc-65d0b32bdb81",
+        "line": 17,
+        "version": 1239,
+        "index": 404
+      },
+      {
+        "id": "839ec354-2e72-41f9-999a-f384d61a0b96",
+        "line": 17,
+        "version": 1239,
+        "index": 404
+      }
+    ]
+  }
+}
